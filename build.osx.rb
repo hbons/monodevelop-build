@@ -82,4 +82,3 @@ system 'export ACLOCAL_FLAGS="-I /Library/Frameworks/Mono.framework/Versions/Cur
 system 'export DYLD_FALLBACK_LIBRARY_PATH=/Library/Frameworks/Mono.framework/Versions/Current/lib:/lib:/usr/lib'
 configure
 make
-run
